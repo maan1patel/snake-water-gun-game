@@ -19,5 +19,4 @@ This is a simple Python implementation of the classic "Snake, Water, Gun" game, 
    - If both choices are the same, it's a tie.
    - Otherwise, the winner is determined based on the game rules above.
 
-## Example Output
 
