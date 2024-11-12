@@ -1,4 +1,4 @@
-# Snake, Water, Gun game
+# Snake, Water, Gun game ~~ by Maan Patel
 import random
 
 def gameWin(comp,you):
